@@ -1,4 +1,3 @@
-requests
 python-dotenv
 gradio
 pypdf
@@ -7,3 +6,5 @@ openai-agents
 chromadb
 langchain
 tiktoken
+langchain-community
+sentence-transformers

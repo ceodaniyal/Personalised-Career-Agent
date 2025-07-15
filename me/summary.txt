@@ -1,0 +1,22 @@
+**Profile Summary for Daniyal Khan**  
+
+Daniyal Khan is a **Data Scientist & Cybersecurity Enthusiast** based in Mumbai, India, with expertise in transforming data into actionable insights while safeguarding digital systems. He holds a **Bachelor’s degree in Computer Engineering** from the University of Mumbai and combines proficiency in **machine learning, data analysis, and cybersecurity** to drive innovative solutions.  
+
+### **Key Highlights:**  
+- **Professional Experience:**  
+  - **Associate Data Scientist at Blackcoffer** (Oct 2024 – Present):  
+    - Optimized data pipelines for LLMs, built a **GraphRAG system** with Neo4j and GPT-4, and developed a **FastAPI chatbot** with Pinecone integration.  
+    - Conducted market research (e.g., gym pricing analysis in Geneva) and implemented **ELK stack** for real-time sales monitoring.  
+  - **Joint Head at EDC MHSSCOE** (Jun–Dec 2023): Led social media strategies to grow engagement and foster an entrepreneurial community.  
+
+- **Technical Skills:**  
+  - **Data Science:** Python, TensorFlow, Graph Databases (Neo4j), RAG, FastAPI, ELK Stack, PostgreSQL, Grafana.  
+  - **Cybersecurity:** Network security, penetration testing, vulnerability assessment.  
+
+- **Strengths:**  
+  - Bridging **data science and cybersecurity** to enhance decision-making and security measures.  
+  - Strong problem-solving skills with a focus on **predictive modeling, data visualization, and ethical hacking**.  
+
+Daniyal is passionate about **collaborating on projects at the intersection of data and security** and staying ahead of trends in these evolving fields. Connect with him to explore opportunities or discuss innovative ideas!  
+
+**Contact:** kdaniyal7865@gmail.com | [LinkedIn](www.linkedin.com/in/kdaniyal7865)
